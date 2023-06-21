@@ -1,0 +1,11 @@
+framework module flutter_tesseract_ocr {
+  umbrella header "flutter_tesseract_ocr-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_tesseract_ocr.Swift {
+  header "flutter_tesseract_ocr-Swift.h"
+  requires objc
+}

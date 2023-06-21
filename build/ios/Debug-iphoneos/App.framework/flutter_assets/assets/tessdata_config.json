@@ -1,0 +1,19 @@
+{
+  "files": [
+    "OCRB.traineddata",
+    "pdf.ttf",
+    "financial.traineddata",
+    "deu.traineddata",
+    "eng.traineddata",
+    "spa.traineddata",
+    "fra.traineddata",
+    "ita.traineddata",
+    "jpn.traineddata",
+    "kor.traineddata",
+    "gla.traineddata",
+    "por.traineddata",
+    "rus.traineddata",
+    "swe.traineddata",
+    "chi_sim.traineddata"
+  ]
+}
