@@ -129,9 +129,11 @@ packages:
   flutter_tesseract_ocr:
     dependency: "direct dev"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: eaa75006e7cce67b026f7228ee7ed979798b142c
+      url: "https://github.com/SviatoslavLeskiv/tesseract_ocr.git"
+    source: git
     version: "0.4.23"
   flutter_test:
     dependency: "direct dev"
